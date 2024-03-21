@@ -1,0 +1,52 @@
+{
+  "name": "quiaitaque",
+  "version": "1.0.0",
+  "description": "Manage hierarchical deterministic keychain for bitcoin and altcoins.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "MelynaJohnson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MerlinJast/quiaitaque.git"
+  },
+  "keywords": [
+    "hd wallet",
+    "hdwallet",
+    "id",
+    "sed",
+    "bitcoin",
+    "btc",
+    "tempore",
+    "crypto currency",
+    "ethereum",
+    "eth",
+    "aliquid",
+    "doloribus",
+    "bitcoin cash",
+    "bch",
+    "ad",
+    "qui",
+    "dash",
+    "dsh",
+    "nem",
+    "bitconnect",
+    "quam",
+    "neo",
+    "aliquam",
+    "xmr",
+    "iota",
+    "quaerat",
+    "facilis",
+    "etc"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^2.4.0",
+    "block-hash": "^1.0.0",
+    "coinkey": "^2.0.0",
+    "crypto": "^1.0.1",
+    "hdkey": "^0.7.1"
+  }
+}
